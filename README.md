@@ -10,7 +10,7 @@ I also made [ActivityStreak.app](https://activitystreak.app) 🏃‍♂️ 🔥
 
 ----
 ## Stuff I'm working on:
-- [mileaday.app](https://github.com/bagelhouse/mileaday)
+- [activitystreak.app](https://activitystreak.app)
 - [Cherry Pick Action @ Xealth](https://github.com/Xealth/cherry-pick-action)
 
 ## You can see some of my other things below!
