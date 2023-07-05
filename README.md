@@ -7,7 +7,7 @@ Core Team Maintainer at [TS-Rest](https://github.com/ts-rest)
 I also made [ActivityStreak.app](https://activitystreak.app) 🏃‍♂️ 🔥
 
 
-## Switch to my [coporate profile](https://github.com/arivera-xealth)
+## Switch to my [corporate profile](https://github.com/arivera-xealth)
 
 
 ----
