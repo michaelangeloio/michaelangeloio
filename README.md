@@ -21,3 +21,5 @@ TmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAKTmV2ZXIgZ29ubmEgbGV0IHlvdSBkb3duCk5ldmVyIGdvbm5h
 ```
 
 ## You can see some of my other things below!
+
+![Angelo's stats](https://github-readme-stats.vercel.app/api?username=michaelangrivera&show_icons=true&theme=radical)
