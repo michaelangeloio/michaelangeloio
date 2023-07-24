@@ -1,6 +1,6 @@
 # Hi there! 🤙
 
-See my website at [https://michaelangelo.io](url)
+See my website at [michaelangelo.io](https://michaelangelo.io/)
 
 I currently work at [Xealth](https://github.com/Xealth). 
 
