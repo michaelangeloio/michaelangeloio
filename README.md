@@ -1,4 +1,4 @@
-# Hi there! 🤙
+# hi there! 🤙
 
 See my website at [michaelangelo.io](https://michaelangelo.io/)
 
