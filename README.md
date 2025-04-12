@@ -12,9 +12,6 @@ Core Team Maintainer at [TS-Rest](https://github.com/ts-rest)
 I also made [ActivityStreak.app](https://activitystreak.app) 🏃‍♂️ 🔥
 
 
-### Switch to my [corporate profile](https://github.com/arivera-xealth)
-
-
 ----
 ## Neat Stuff I'm working on:
 - [Cherry Pick Action @ Xealth](https://github.com/Xealth/cherry-pick-action)
