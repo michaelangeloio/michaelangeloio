@@ -2,7 +2,10 @@
 
 See my website at [michaelangelo.io](https://michaelangelo.io/)
 
-I currently work at [Xealth](https://github.com/Xealth). 
+I currently work at [GitLab](https://gitlab.com). 
+
+- [work profile](https://gitlab.com/michaelangeloio)
+- [personal gitlab profile](https://gitlab.com/michaelangelorivera)
 
 Core Team Maintainer at [TS-Rest](https://github.com/ts-rest)
 
